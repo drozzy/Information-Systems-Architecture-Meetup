@@ -13,8 +13,8 @@ For example, for presentation by Andriy Drozdyuk entitled "Command Query Respons
 
 Please open an issue if you'd like to present or want to hear on a particular subject.
 
-## Credit
+## Credits
 
 Idea of using github as a tracker for a meetup shamelessly stolen from [Elixir Ottawa Meetup](https://github.com/ElixirOttawaMeetup).
 
-Image from [pixabay](https://pixabay.com/en/hive-rhombus-yellow-abstract-2002878/)
+Image from [pixabay](https://pixabay.com/en/hive-rhombus-yellow-abstract-2002878/).
