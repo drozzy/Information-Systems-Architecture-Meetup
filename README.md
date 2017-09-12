@@ -1,6 +1,8 @@
 # microservices-ottawa-meetup
 Idea tracker and presentations for [Microservices Ottawa Meetup](https://www.meetup.com/DDD-CQRS-ES/events/242749759/).
 
+![Logo](img.png)
+
 ## Presentations
 
 Please clone the repo and add your presentation under the `yyyy-mm-dd-lastname-firstword` folder.
