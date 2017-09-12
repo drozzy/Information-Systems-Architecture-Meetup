@@ -5,6 +5,6 @@ Idea tracker and presentations from Microservices Ottawa Meetup
 
 Please clone the repo and add your presentation under the `yyyy-mm-dd` folder.
 
-## Ideas/Suggestions/Schedule
+## Ideas Suggestions and Scheduled
 
 Please open an issue if you'd like to present or want to hear on a particular subject.
