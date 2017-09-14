@@ -1,4 +1,4 @@
-# microservices-ottawa-meetup
+# Microservices Ottawa
 Idea tracker and presentations for [Microservices Ottawa Meetup](https://www.meetup.com/DDD-CQRS-ES/events/242749759/).
 
 ![Logo](img.png)
