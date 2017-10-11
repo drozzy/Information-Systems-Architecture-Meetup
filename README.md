@@ -1,5 +1,5 @@
-# Microservices Ottawa
-Idea tracker and presentations for [Microservices Ottawa Meetup](https://www.meetup.com/DDD-CQRS-ES/events/242749759/).
+# Information Systems Architecture
+Idea tracker and presentations for [Information Systems Architecture Meetup](https://www.meetup.com/Information-Systems-Architecture/).
 
 ![Logo](img.png)
 
