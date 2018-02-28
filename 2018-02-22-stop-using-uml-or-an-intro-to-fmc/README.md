@@ -5,15 +5,15 @@ Due to poor video quality, please see [Lecture Notes](LectureNodes.pdf) for clea
 
 Please buy the book on FMC (see references below). It is an excellent source of inspiration for both diagrams and system architecture.
 
+## Video 
+
+You can find the video on my YouTube channel, here: https://youtu.be/QQ4GUwl9u28
+
 ## References
 
 1. Fundamental Modeling Concepts Home Page: http://www.fmc-modeling.org
 2. Knöpfel, Gröne and Tabeling. (2006). Fundamental Modeling Concepts: Effective Communication of IT Systems. 
 3. Puchner, M. (2017, November 3). How a Ripped-Off Sequel of Don Quixote Predicted Piracy in the Digital Age. Retrieved from https://www.smithsonianmag.com/history/how-ripped-off-sequel-don-quixote-predicted-piracy-digital-age-180967048/)
-
-## Video 
-
-You can find the video entitled the same as the presentation on my [YouTube channel](https://www.youtube.com/channel/UCtMt1HhTYAVw_uVqorTOnFw).
 
 ## Contact
 
