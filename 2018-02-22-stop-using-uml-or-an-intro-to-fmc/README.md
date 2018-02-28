@@ -1,7 +1,7 @@
 # Stop using UML! or An Introduction to Fundamental Modeling Concepts
 
 Presented by Andriy Drozdyuk.
-Due to poor video quality, please see [Lecture Notes](LectureNodes.pdf) for clearer diagrams.
+Due to poor video quality, please see [Lecture Notes](LectureNotes.pdf) for clearer diagrams.
 
 Please buy the book on FMC (see references below). It is an excellent source of inspiration for both diagrams and system architecture.
 
