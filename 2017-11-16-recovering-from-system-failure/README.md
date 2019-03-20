@@ -1,4 +1,4 @@
-# Recoverying from System Failure
+# Recovering from System Failure
 
 Presented by Andriy Drozdyuk.
 Please follow along with [slides](slides.pdf).
